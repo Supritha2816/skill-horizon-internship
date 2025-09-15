@@ -1,0 +1,24 @@
+WhatWeb report for [1m[34mhttp://example.com[0m
+Status    : 200 OK
+Title     : [1m[33mExample Domain[0m
+IP        : 23.220.75.232
+Country   : [1m[31mUNITED STATES, US[0m
+
+Summary   : [1mHTML5[0m
+
+Detected Plugins:
+[ [1mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Accept-Ranges: bytes
+	Content-Type: text/html
+	ETag: "84238dfc8092e5d9c0dac8ef93371a07:1736799080.121134"
+	Last-Modified: Mon, 13 Jan 2025 20:11:20 GMT
+	Content-Length: 1256
+	Cache-Control: max-age=86000
+	Date: Mon, 15 Sep 2025 14:10:24 GMT
+	Connection: close
+	

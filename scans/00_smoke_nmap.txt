@@ -1,0 +1,11 @@
+# Nmap 7.95 scan initiated Mon Sep 15 10:08:48 2025 as: /usr/lib/nmap/nmap --privileged -sS -T4 -p 1-1000 -oN scans/00_smoke_nmap.txt example.com
+Nmap scan report for example.com (23.192.228.80)
+Host is up (0.013s latency).
+Other addresses for example.com (not scanned): 23.220.75.232 23.220.75.245 23.215.0.136 23.192.228.84 23.215.0.138 2600:1406:bc00:53::b81e:94c8 2600:1408:ec00:36::1736:7f24 2600:1406:5e00:6::17ce:bc12 2600:1406:5e00:6::17ce:bc1b 2600:1408:ec00:36::1736:7f31 2600:1406:bc00:53::b81e:94ce
+rDNS record for 23.192.228.80: a23-192-228-80.deploy.static.akamaitechnologies.com
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+# Nmap done at Mon Sep 15 10:10:21 2025 -- 1 IP address (1 host up) scanned in 93.58 seconds
