@@ -1,0 +1,7 @@
+HTTP/1.1 404 Not Found
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=2D6E94C2F25D3EBF85D837F73F8E50D2; Path=/; HttpOnly
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Tue, 16 Sep 2025 15:04:21 GMT
+

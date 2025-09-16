@@ -1,0 +1,15 @@
+/admin               [36m (Status: 302)[0m [Size: 0][34m [--> /login.jsp][0m
+/aux                 [32m (Status: 200)[0m [Size: 0]
+/bank                [36m (Status: 302)[0m [Size: 0][34m [--> /login.jsp][0m
+/com3                [32m (Status: 200)[0m [Size: 0]
+/com1                [32m (Status: 200)[0m [Size: 0]
+/com2                [32m (Status: 200)[0m [Size: 0]
+/con                 [32m (Status: 200)[0m [Size: 0]
+/images              [36m (Status: 302)[0m [Size: 0][34m [--> /images/][0m
+/lpt1                [32m (Status: 200)[0m [Size: 0]
+/lpt2                [32m (Status: 200)[0m [Size: 0]
+/nul                 [32m (Status: 200)[0m [Size: 0]
+/pr                  [36m (Status: 302)[0m [Size: 0][34m [--> /pr/][0m
+/prn                 [32m (Status: 200)[0m [Size: 0]
+/static              [36m (Status: 302)[0m [Size: 0][34m [--> /static/][0m
+/util                [36m (Status: 302)[0m [Size: 0][34m [--> /util/][0m
